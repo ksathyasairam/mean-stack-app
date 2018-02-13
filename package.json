@@ -1,0 +1,29 @@
+{
+  "name": "mean-app",
+  "version": "1.0.0",
+  "description": "MEAN Stack Application",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ksathyasairam/mean-stack-app.git"
+  },
+  "keywords": [
+    "mean"
+  ],
+  "author": "sattyboy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ksathyasairam/mean-stack-app/issues"
+  },
+  "homepage": "https://github.com/ksathyasairam/mean-stack-app#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "devDependencies": {
+    "mocha": "^5.0.0"
+  }
+}
